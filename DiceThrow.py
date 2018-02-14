@@ -1,3 +1,6 @@
+#Author 
+#Pratik Prabhakar
+
 '''
 A function named play_one() to simulate a single run through
 the dice game involving a single cube.
