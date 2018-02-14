@@ -1,3 +1,6 @@
+#Author 
+#Pratik Prabhakar
+
 '''
 A python function named squeeze(filename) which
 input the file filename and output each line of this file which differs from the previous
