@@ -1,3 +1,6 @@
+#Author 
+#Pratik Prabhakar
+
 def to_english(n):
     units=["","one","two","three","four","five","six","seven","eight","nine"]
     tens=["ten","twenty","thirty","fourty","fifty","sixty","seventy","eighty","ninety"]
