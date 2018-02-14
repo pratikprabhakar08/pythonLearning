@@ -1,3 +1,6 @@
+#Author 
+#Pratik Prabhakar
+
 '''
 Python function named palindrome(s) that takes a single string parameter 
 representing a word and that returns True if the letters within the word
