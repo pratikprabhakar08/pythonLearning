@@ -1,3 +1,5 @@
+#Pratik Prabhakar
+
 ''' 
 Python function named  chessboard(n) that prints a chessboard pattern
 e.g.

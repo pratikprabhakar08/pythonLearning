@@ -1,3 +1,6 @@
+#Author 
+#Pratik Prabhakar
+
 '''
 A python function named search_file(filename, target) which
 outputs each line in file containing string target,

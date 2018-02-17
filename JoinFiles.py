@@ -1,3 +1,6 @@
+#Author 
+#Pratik Prabhakar
+
 '''
 A python function named join_files(inputfilenames, outputfilename) which
 Copy all files in the list inputfilenames to the file outputfilename.

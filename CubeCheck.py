@@ -1,3 +1,6 @@
+#Author 
+#Pratik Prabhakar
+
 '''
 Function named is_cube(n) which return True if the
 integer is a perfect cube and False otherwise
