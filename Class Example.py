@@ -1,5 +1,4 @@
 #Pratik Prabhakar
-#117220752
 
 '''CreditCard class definition which gives the following pieces of information as getter methods:
 (i) the name of the customer,

@@ -1,5 +1,4 @@
 #Pratik Prabhakar
-#117220752
 
 '''
 A simple vote counting application for an election.
