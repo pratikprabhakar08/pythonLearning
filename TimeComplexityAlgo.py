@@ -1,5 +1,4 @@
 #Pratik Prabhakar
-#117220752
 
 '''
 This gathers time performance data for a quick and insertion sorting algorithms.
