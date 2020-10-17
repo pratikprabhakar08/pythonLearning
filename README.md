@@ -11,3 +11,4 @@ These are the sample programs which I tried programming using Python3.
 7) Palindrome Check
 8) Search File
 9) Squeezing File Contents
+10) Arithmetic operators
